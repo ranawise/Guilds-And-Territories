@@ -12,7 +12,6 @@ public class GuildsAndTerritories extends JavaPlugin {
         instance = this;
         guildManager = new GuildManager();
 
-        // Register commands and event listeners here
         getLogger().info("GuildsAndTerritories plugin has been enabled!");
     }
 
