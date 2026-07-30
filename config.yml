@@ -1,0 +1,12 @@
+guild_creation_cost: 500
+land_claim_cost_per_chunk: 100
+tax_rate: 5
+war_declaration_fee: 1000
+
+territory_settings:
+  max_land_per_guild: 50
+  raid_protection_time: 24h
+
+economy_settings:
+  guild_treasury_starting_balance: 1000
+  guild_tax_collection_interval: "daily"

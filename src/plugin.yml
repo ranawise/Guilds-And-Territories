@@ -1,0 +1,26 @@
+name: GuildsAndTerritories
+version: 1.0.0
+main: me.dammnranaah.GuildsAndTerritories
+description: A comprehensive guild and territory management plugin
+api-version: 1.19
+
+commands:
+  guild:
+    description: Guild management commands
+    usage: /guild help
+    aliases: [g]
+
+  war:
+    description: War-related commands
+    usage: /war help
+    aliases: [w]
+
+  claim:
+    description: Territory claiming commands
+    usage: /claim help
+    aliases: [c]
+
+  tax:
+    description: Guild tax management commands
+    usage: /tax help
+    aliases: [t]

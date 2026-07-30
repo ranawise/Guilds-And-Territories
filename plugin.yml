@@ -1,0 +1,24 @@
+name: GuildsAndTerritories
+main: me.dammnranaah.guilds.GuildsAndTerritories
+version: 1.0
+author: dammnranaah
+description: A territory-based guilds plugin for Minecraft.
+
+commands:
+  guild:
+    description: Main guild command
+    usage: /guild <create|invite|leave|info>
+  claim:
+    description: Claim land for your guild
+    usage: /claim
+  war:
+    description: Declare war on other guilds
+    usage: /war <guild_name>
+  tax:
+    description: Manage guild taxes
+    usage: /tax <set|pay>
+
+permissions:
+  guilds.admin:
+    description: Allows admin control over all guilds
+    default: op
