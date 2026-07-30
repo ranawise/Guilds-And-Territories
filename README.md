@@ -1,4 +1,4 @@
-# 🏰 Guilds & Territories
+# Guilds & Territories
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20+-brightgreen.svg)](https://papermc.io/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -8,17 +8,17 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- **🏰 Guild Creation & Management**: Create, join, and lead guilds with custom ranks, permissions, and roles.
-- **🗺️ Territory Claiming System**: Secure your land, set up custom claim borders, and protect your resources.
-- **⚡ Modern GUI Interface**: Interactive custom menus for easy navigation, land upgrades, and guild settings.
-- **⚔️ Warfare & Alliances**: Form alliances, declare rivalries, and wage territory wars with real-time stats.
-- **💎 Guild Vault & Upgrades**: Dedicated guild storage, shared bank, and unlockable perks/perk trees.
+- **Guild Creation & Management**: Create, join, and lead guilds with custom ranks, permissions, and roles.
+- **Territory Claiming System**: Secure your land, set up custom claim borders, and protect your resources.
+- **Modern GUI Interface**: Interactive custom menus for easy navigation, land upgrades, and guild settings.
+- **Warfare & Alliances**: Form alliances, declare rivalries, and wage territory wars with real-time stats.
+- **Guild Vault & Upgrades**: Dedicated guild storage, shared bank, and unlockable perks/perk trees.
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 1. **Download**: Grab the latest release `.jar` file.
 2. **Deploy**: Place the `.jar` into your Minecraft server's `plugins/` directory.
@@ -27,7 +27,7 @@
 
 ---
 
-## ⚡ Commands & Permissions
+## Commands & Permissions
 
 | Command | Description | Permission |
 | :--- | :--- | :--- |
@@ -39,18 +39,18 @@
 
 ---
 
-## 💻 Building from Source
+## Building from Source
 
 Build the project using Maven:
 
 ```bash
-git clone https://github.com/your-repo/Guilds-And-Territories.git
+git clone https://github.com/ranawise/Guilds-And-Territories.git
 cd Guilds-And-Territories
 mvn clean package
 ```
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License**.
